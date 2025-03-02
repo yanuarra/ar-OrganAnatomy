@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e4697a2bb0b9dc54a81789a0412224d2, type: 3}
+  m_Name: 2_Overview Sistem Saraf
+  m_EditorClassIdentifier: 
+  mainName: 'Overview Sistem Saraf '
+  mainDescription: "Overview Sistem Saraf\r Desc"
+  thumbnail: {fileID: 21300000, guid: ceaac6f41c727f44ab52e74b044f6814, type: 3}
+  video: 
+  audio: {fileID: 0}
+  anatomyPart:
+  - partName: 'Susunan Sistem Saraf '
+    partDescription: 
+    thumbnail: {fileID: 21300000, guid: e9e95dd825b42e042bba928531414d53, type: 3}
+    ARPrefab: {fileID: 3972656956311413048, guid: 82779a4ffbd511b49b91d0ef21761ea7, type: 3}
+    ARImageName: Anatomi_Sistem_Saraf
+    subPart:
+    - subName: 'Enchepalon '
+      subImage: {fileID: 0}
+      subDescription: "Otak atau Encephalon merupakan bagian dari system saraf pusat.
+        Embriologi : berasal dari ectoderm. Encephalon terdiri dari 4 bagian, yaitu:\r\n-
+        Cerebrum (Otak besar)\r\n- Diencephalon\r\n- Brainstem (Batang otak)\r\n-
+        sCerebellum (otak kecil)\r"
+    - subName: 'Medulla Spinalis  '
+      subImage: {fileID: 0}
+      subDescription: 'Medullaspinalis (s. Myelon), merupakan bagian  system saraf
+        pusat dan berasal dar derivate ectoderm. Panjang sekitar 42-45 cm  ( proyeksi
+        setinggi vertebrae L1/L2) . Terdiri dari beberapa regio, yaitu:
+
+        -
+        Cervical:, terdiri dari 8 segmen (C1-8), berbatasan dengan medulla oblongata
+        (For. magnum)
+
+        - Thorax;, terdiri dari 12 segmen (T1-12)
+
+        -
+        Lumbal:, terdiri dari 5 segmen (L1-5)
+
+        - Sacral , terdiri dari 5
+        segmen (S1-5)
+
+        - Coccygeus, terdiri dari 1 segmen
+
+'
+    - subName: 'Nervi Spinalis  '
+      subImage: {fileID: 0}
+      subDescription: 'Nervi spinales ( Tunggal: nervus spinalis) merupakan serabut
+        saraf yang keluar dari setiap segmen medulla spinalis, jumlah 31 pasang.
+        Embryologi : berasal dari salah satu derivate ectoderm yaitu: neural crest '
+    - subName: 'Nervi craniales  '
+      subImage: {fileID: 0}
+      subDescription: "Nervi craniales (Tunggal Nervus cranialis), merupakan serabut
+        saraf yang keluar dari batang otak (kecuali Nc.I dan Nc.II). Jumlah 12 pasang
+        Nn Craniales.Inti nervus cranialis  Embriology berasal   dari salah satu
+        derivate ectoderm yaitu: neural crest.\r\r\n"

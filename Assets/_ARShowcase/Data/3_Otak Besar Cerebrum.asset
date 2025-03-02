@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e4697a2bb0b9dc54a81789a0412224d2, type: 3}
+  m_Name: 3_Otak Besar Cerebrum
+  m_EditorClassIdentifier: 
+  mainName: Otak Besar
+  mainDescription: 'Otak adalah organ pusat sistem saraf pada manusia dan hewan vertebrata
+    lainnya. Otak berperan penting dalam mengontrol berbagai fungsi tubuh, termasuk
+    persepsi sensorik, pemrosesan informasi, pengaturan perilaku, dan fungsi-fungsi
+    lainnya yang vital bagi kehidupan.
+
+
+    Otak manusia terletak di dalam tengkorak
+    dan terdiri dari beberapa bagian utama, seperti korteks otak, otak tengah, dan
+    otak belakang. Setiap bagian memiliki fungsi spesifik dalam mengendalikan berbagai
+    aspek kehidupan sehari-hari.
+
+
+    Beberapa fungsi utama otak meliputi:
+
+    1.
+    Pemrosesan Informasi: Otak menerima, mengolah, dan menginterpretasi informasi
+    dari lingkungan melalui panca indera.
+
+    2. Pengendalian Gerakan: Otak mengatur
+    gerakan tubuh dan koordinasi otot.
+
+    3. Pengaturan Fungsi Autonom: Otak mengontrol
+    fungsi otomatis tubuh, seperti detak jantung, pernapasan, dan pencernaan.
+
+    4.
+    Kemampuan Berpikir dan Mengambil Keputusan: Otak memungkinkan manusia untuk berpikir,
+    merencanakan, dan mengambil keputusan.
+
+    5. Pemrosesan Emosi: Otak terlibat
+    dalam pengaturan emosi dan respon terhadap stimulus emosional.
+
+    6. Pengingatan
+    dan Pembelajaran: Otak memainkan peran penting dalam pembentukan ingatan dan
+    kemampuan belajar.'
+  thumbnail: {fileID: 21300000, guid: 80fd30256b9766a4d89061a659b267cd, type: 3}
+  video: 
+  audio: {fileID: 0}
+  anatomyPart:
+  - partName: Otak Besar
+    partDescription: 
+    thumbnail: {fileID: 21300000, guid: e9e95dd825b42e042bba928531414d53, type: 3}
+    ARPrefab: {fileID: 1238786301391089428, guid: c173ba304dae5814db9b85aee7ea1f69, type: 3}
+    ARImageName: Otak_Besar
+    subPart:
+    - subName: 'Lobus Frontale '
+      subImage: {fileID: 21300000, guid: e9e95dd825b42e042bba928531414d53, type: 3}
+      subDescription: "Lobus frontal terletak  di fossa cranii anterior dan Cortex
+        lobus ini umumnya terdiri  atas area motoric (cortex motoric). Cortex motoric
+        yang terdapat di lobus ini adalah :\r\n- Premotor Cortex, letak area Brodmann
+        6,  fungsi planning movement\r\n- Broca\u2019s Area, letak area Brodmann
+        44,45  fungsi mengatur (planning) gerak otot-otot  yang berfungsi dalam produksi
+        suara (Speech), seperti otot bibir, lidah, laryng.\r\n- Frontal Eye Field,
+        letak Brodmaan 8, fungsi  mengatur gerakan bola mata dan terhubung dengan 
+        gaze center.\r\n- Primary motor cortex, letak brodmann 4, Fungsi  memetakan
+        gerak  otot skelet disuatu bagian tubuh manusia (Somatotopy motoric)\r"
+    - subName: 'Lobus Parietale '
+      subImage: {fileID: 21300000, guid: e9e95dd825b42e042bba928531414d53, type: 3}
+      subDescription: 'Lobus parietal terletak sulcus centralis dan sulcus occipitoparitalis.
+        Fungsi cortex lobus ini adalah cortex sensorik dan asosiasi, yaitu:
+
+        -
+        Somatosensorik primer, Br 3,1,2. fungsi diskrimiasi terhadap stimulus yang
+        berasal dari tractus spinothalamicus lateral (Nyeri & temperature); tract
+        spinothalamicus anterior (raba kasar), dan tract collumna dorsalis lemniscus
+        medial (raba dan tekanan)  yang berasal dari dermatome kontralateral (bentuk,
+        ukuran, dan tekstur).
+
+        - Somatosensorik asosiasi (Br. 5,7), fungsi
+        persepsi untuk stimulus somatosensorik dari Br 3,1,2 . Area ini terhubung
+        dengan hippocampus dan amygdala untuk  membantu mendapatkan informasi dari
+        lingkungan dan mengintegrasikan dengan pengalaman, dan memberikan respon
+        yang tepat.
+
+        - Gyrus supramarginal (Br 40) adalah wilayah di lobus
+        parietal inferior yang terlibat dalam membaca baik dari segi makna maupun
+        fonologi.
+
+'
+    - subName: 'Lobus Temporal '
+      subImage: {fileID: 0}
+      subDescription: 
+    - subName: 'Lobus Occipitale '
+      subImage: {fileID: 0}
+      subDescription: 

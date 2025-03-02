@@ -1,0 +1,285 @@
+fileFormatVersion: 2
+guid: f59168c2cc56b7e478e91fa81b2f2d65
+ModelImporter:
+  serializedVersion: 21202
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: corpuscallosum1lowbake
+    second: {fileID: 2100000, guid: 05edea3a2d394e641b9054c6bc91e23a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: corpuscallosum2lowbake
+    second: {fileID: 2100000, guid: ed6ee56ec5297a64db790f0bee8afacc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: corpuscallosumkiri2lowbake
+    second: {fileID: 2100000, guid: b845b5e4b4315934798454a8bae29575, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: corpuscallosumkiri3lowbake
+    second: {fileID: 2100000, guid: b14395f93cc613348bf046a0582b553c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: corpuscallosumkirilowbake
+    second: {fileID: 2100000, guid: 7414519d1c28c4e499a390765ca9cf9f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: defaultMat.002
+    second: {fileID: 2100000, guid: 745ff05df5c957343b79fef1102d8a10, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: defaultMat.007
+    second: {fileID: 2100000, guid: 058eb11afcd7d994897031149524d4f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: defaultMat.014
+    second: {fileID: 2100000, guid: 6f6e68912fff0494f84707bba4b4e898, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: otakbawahlowbake
+    second: {fileID: 2100000, guid: bd6c9a55a47a92b449ca8de7c6f6a0d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: otakbelakanglowbake
+    second: {fileID: 2100000, guid: 6ac60b2189e843e47ab323035fa11f49, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: otakkananlowbake
+    second: {fileID: 2100000, guid: 772949cdd58c5a545972d8110205adc6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: otakkirilowbake
+    second: {fileID: 2100000, guid: 563fddcf2b09da8469e30ce532e3bdff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sarafblotakbake
+    second: {fileID: 2100000, guid: 423f6404127bc7d45b985f1c67801493, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: colosum1low_Bake1_CyclesBake_COMBINED
+    second: {fileID: 2800000, guid: f73d858751fbf27449466f5f7b6d0819, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: colosum1low_Bake1_CyclesBake_NORMAL~1
+    second: {fileID: 2800000, guid: 55ec274e301d3304d97ffcc0373be09e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: corpuscallosum2low_Bake1_CyclesBake_COMBINED
+    second: {fileID: 2800000, guid: 8234a0be4d9d13c43a524ec72f421dea, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: corpuscallosum2low_Bake1_CyclesBake_NORMAL~1
+    second: {fileID: 2800000, guid: dc86c52d5a67b69459d71ee1b519a220, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: corpuscallosumkirilow.001_Bake1_CyclesBake_COMBINED
+    second: {fileID: 2800000, guid: e1fc2a3b3ec6c184596f21e6836e8368, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: corpuscallosumkirilow.001_Bake1_CyclesBake_NORMAL~1
+    second: {fileID: 2800000, guid: 0d211906be68cd2408caeb3dbb8daa84, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: corpuscallosumkirilow.002_Bake1_CyclesBake_COMBINED
+    second: {fileID: 2800000, guid: 9ce79a4e77e2e2a488c1c227ed266fba, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: corpuscallosumkirilow.002_Bake1_CyclesBake_NORMAL~1
+    second: {fileID: 2800000, guid: 52f4f3a193143f74caf0e33b18c52356, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: corpuscallosumkirilow.003_Bake1_CyclesBake_COMBINED
+    second: {fileID: 2800000, guid: dae925a3f0d93a4438addaa91e932a94, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: corpuscallosumkirilow.003_Bake1_CyclesBake_NORMAL~1
+    second: {fileID: 2800000, guid: 24e78448c1f443641a8964ebe78151db, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: kananmerahlow
+    second: {fileID: 2800000, guid: a8ad11605b9081e449940415ce78e6ca, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: kirimerahlow
+    second: {fileID: 2800000, guid: 9614b039439246844a29def0569fbe34, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: otakbawahlow
+    second: {fileID: 2800000, guid: 914841b81eefeee4fb33ea4bbf30b67b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: otakbawahlow_Bake1_CyclesBake_NORMAL~1
+    second: {fileID: 2800000, guid: 69255b92fa1796e43b4e548e9d0e6016, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: otakbelakanglow_Bake1_CyclesBake_COMBINED
+    second: {fileID: 2800000, guid: 20746f541a1d8d64eafa7c681512bd5b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: otakbelakanglow_Bake1_CyclesBake_NORMAL~1
+    second: {fileID: 2800000, guid: 5c45115f14f064546b40271fbc1d9f6e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: otakkananlow_Bake1_CyclesBake_COMBINED
+    second: {fileID: 2800000, guid: d03d32666ad9d454db98b15112af9e5b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: otakkananlow_Bake1_CyclesBake_NORMAL~1
+    second: {fileID: 2800000, guid: 49cf05fa4a290bb4cb3dc1a5caa50204, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: otakkirilow_Bake1_CyclesBake_COMBINED
+    second: {fileID: 2800000, guid: 39651f9916517d34c94cfcc7da7feda2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: otakkirilow_Bake1_CyclesBake_NORMAL~1
+    second: {fileID: 2800000, guid: d94f38b1d7006b24697d453350b757fc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sarafblkotaklow_Bake1_CyclesBake_COMBINED
+    second: {fileID: 2800000, guid: 32fad16bf216d294ea1f9aa8dba0349c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sarafblkotaklow_Bake1_CyclesBake_NORMAL~1
+    second: {fileID: 2800000, guid: 569b58561b87d5c498f31f177a5b6718, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tulangtengahtransparanlow
+    second: {fileID: 2800000, guid: d9a0602b6c4e20b41af36653d95151e8, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

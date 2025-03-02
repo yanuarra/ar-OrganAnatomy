@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e4697a2bb0b9dc54a81789a0412224d2, type: 3}
+  m_Name: 4_Diencephalon
+  m_EditorClassIdentifier: 
+  mainName: Diencephalon
+  mainDescription: Diencephalon
+  thumbnail: {fileID: 21300000, guid: 80fd30256b9766a4d89061a659b267cd, type: 3}
+  video: 
+  audio: {fileID: 0}
+  anatomyPart:
+  - partName: Diencephalon
+    partDescription: 
+    thumbnail: {fileID: 21300000, guid: e9e95dd825b42e042bba928531414d53, type: 3}
+    ARPrefab: {fileID: 313979201561859029, guid: f72a62df6d0a324429b1eeb8dc3e2111, type: 3}
+    ARImageName: Diencephalon
+    subPart:
+    - subName: Thalamus
+      subImage: {fileID: 0}
+      subDescription: 
+    - subName: Hypothalamus
+      subImage: {fileID: 0}
+      subDescription: 
+    - subName: Epitalamus
+      subImage: {fileID: 0}
+      subDescription: 
+    - subName: hipofise
+      subImage: {fileID: 0}
+      subDescription: 

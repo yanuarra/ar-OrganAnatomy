@@ -1,0 +1,208 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e4697a2bb0b9dc54a81789a0412224d2, type: 3}
+  m_Name: 1_Struktur Pelindung Saraf
+  m_EditorClassIdentifier: 
+  mainName: Struktur Pelindung Saraf
+  mainDescription: Struktur Pelindung Saraf Desc
+  thumbnail: {fileID: 21300000, guid: ac5d0cc37c03c86439c82db20cce1046, type: 3}
+  video: 
+  audio: {fileID: 0}
+  anatomyPart:
+  - partName: 'Os Cranium '
+    partDescription: 
+    thumbnail: {fileID: 21300000, guid: ac5d0cc37c03c86439c82db20cce1046, type: 3}
+    ARPrefab: {fileID: 2681522876985368277, guid: 3614a70a15adc1b4595ee9ebfc0754d2, type: 3}
+    ARImageName: marker_cranium
+    subPart:
+    - subName: 'Fossa Cranii Posterior '
+      subImage: {fileID: 0}
+      subDescription: "Merupakan suatu cekungan yang terletak di posterior (belakang) 
+        dasar tengkorak (basis cranii). \r\n\r\n"
+    - subName: 'Temporale  '
+      subImage: {fileID: 0}
+      subDescription: 'Tulang temporale, jumlah sepasang dan termasuk tulang pipih
+        dan berfungsi  sebagai pelindung otak (neurocranium). Embryologi: berasal
+        dari mesoderm paraxial (dearah cranial) yang dikenal dengan parietal eminence
+        dan neural crest (pars squamosa). Pusat ossifikasi mulai tampak pada janin
+        usia 2-3 bulan
+
+'
+    - subName: 'Occipitale '
+      subImage: {fileID: 0}
+      subDescription: 'Tulang occipital , termasuk tulang pipih dan berfungsi  sebagai
+        pelindung otak (neurocranium). Embryologi: berasal dari mesoderm paraxial
+        (dearah cranial) yang dikenal dengan parietal eminence dan neural crest (pars
+        interparietalis). Pusat ossifikasi mulai tampak pada janin usia 2 bulan
+
+'
+    - subName: 'Fossa Cranii Anterior '
+      subImage: {fileID: 0}
+      subDescription: 'Merupakan suatu cekungan yang terletak di anterior (depan)
+        dasar tengkorak (basis cranii). Sisi anteriornya membentuk atap rongga hidung.
+
+'
+    - subName: 'Fossa Cranii Media '
+      subImage: {fileID: 0}
+      subDescription: 'Merupakan suatu cekungan yang terletak di media (Tengah) dasar
+        tengkorak (basis cranii). Sisi lateralnya membentuk atap telinga  (auris
+        interna, media, 2/3 externa)
+
+'
+    - subName: 'Frontale  '
+      subImage: {fileID: 0}
+      subDescription: 'Tulang dahi atau Os.Frontale termasuk jenis  tulang pneumomatic
+        dan merupakan bagian dari tulang pelindung otak (neurocranium).  Tulang ini
+        memiliki  rongga (Sinus Frontalis, muara di meatus nasalis media). Embryoogi:
+        Berasal dari sepasang frontal eminence pada embryo usia 8 minggu, dan mengalami
+        fusi pada post natal  mulai usia 2 tahun dan sempurna pada usia 7 tahun.
+
+
+
+'
+    - subName: 'Sphenoid '
+      subImage: {fileID: 0}
+      subDescription: "Tulang Sphenoid  termasuk jenis  tulang pneumomatic dan merupakan
+        bagian dari tulang pelindung otak (neurocranium).  Tulang ini memiliki  rongga
+        (Sinus Sphenoidale, muara di Recessus sphenopalatine). Embryoogi: Berasal
+        dari mesoderm dan neural crest (minggu ke-4) ya ng akan berkembang menjadi
+        3 element penyusun yaitu; lateral cartilage, hypophyseal cartilage, and prechordal
+        cartilage (akhir masa embrionik). Pada minggu ke 8-9 akan mengalamai osifikasi
+        endochondral. \r\n\r\n"
+    - subName: 'Parientale  '
+      subImage: {fileID: 0}
+      subDescription: "Tulang parietale, jumlah sepasang dan termasuk tulang pipihdan
+        merupakan bagian dari tulang pelindung otak (neurocranium). Embryolog: berasal
+        dari mesoderm paraxial (dearah cranial) yang dikenal dengan parietal eminance.
+        Primary ossification center mulai tampak pada minggu ke-8 dan ossifikasi 
+        sd janin usia ke-14. \r\n\r\n"
+  - partName: 'Scalp & Meninges '
+    partDescription: 
+    thumbnail: {fileID: 21300000, guid: ac5d0cc37c03c86439c82db20cce1046, type: 3}
+    ARPrefab: {fileID: 4826897385804276621, guid: 0b5f06a30e7640e478e837019f0c30e5, type: 3}
+    ARImageName: Head
+    subPart:
+    - subName: 'Duramatter '
+      subImage: {fileID: 0}
+      subDescription: 'merupakan lapisan meninges paling luar dan tebal. Melapisi
+        otak dan sumsum tulang belakang setinggi tulang coccygeus. Pada otak (Encephalon)
+        lapisan ini memisahkan kedua hemisphere cerebrum (falx cerebri) dan kedua
+        hemisphere cerebellum (falx cerebelli), serta mengisi celah antara cerebrum
+        dan cerebellum (tentorium cerebelli). Sehingga cavum cranium terbagi menjadi
+        daerah supratentorial dan infratentorial.
+
+
+
+
+
+'
+    - subName: 'Arachnoidmatter '
+      subImage: {fileID: 0}
+      subDescription: 'merupakan lapisan yang terletak diantara lapisan duramatter
+        dan piamater. Lapisan ini  terdiri dari jaringan ikat areolar (tersusun seperti
+        jaring laba-laba) meluas sampai setinggi Vertebra Sacralis ke-2. Diantara
+        lapisan arachnoidmatter dan piamatter terdapat celah yang disebut dengan
+        spatium subarachnoid. Celah ini berisi cairan otak (liquor cerebrospinal)
+        dan pembulah darah otak (a.cerebri)
+
+'
+    - subName: 'Piamatter '
+      subImage: {fileID: 0}
+      subDescription: merupakan lapisan otak terdalam dan  melekat pada jaringan
+        otak. Lapisan ini meluas sampai ke conus medulla spinalis (setinggi vertebre
+        Lumbal ke-1). Lapisan ini membentuk fiksasi sumsum tulang belakang, yaitu
+        ligamentum dentatum dan filum terminale
+    - subName: 'SCALP '
+      subImage: {fileID: 0}
+      subDescription: 'The skin of the scalp is thick and hair bearing and contains
+        numerous sebaceous glands. As a result, the scalp is a common site for sebaceous
+        cysts.
+
+'
+    - subName: Loose connective tissue
+      subImage: {fileID: 0}
+      subDescription: 'Areolar tissue loosely, connects the epicranial aponeurosis
+        to the pericranium , allows the superficial 3 layers of the scalp to move
+        over the pericranium., emissary veins traverse this layer, which connects
+        the scalp veins to the diploic veins and intracranial venous sinuses.
+
+'
+    - subName: Pericranium
+      subImage: {fileID: 0}
+      subDescription: The pericranium is the periosteum of the skull bones. Along
+        the suture lines, the pericranium becomes continuous with the endosteum.
+        A subperiosteal hematoma, therefore, forms in the shape of the skull bones.
+    - subName: 'Aponeurosis '
+      subImage: {fileID: 0}
+      subDescription: "thin, tendinous structure, insertion site for the occipitofrontalis
+        muscle.\r\n\u2022Loose connective tissue, Areolar tissue loosely, connects
+        the epicranial aponeurosis to the pericranium , allows the superficial 3
+        layers of the scalp to move over the pericranium., emissary veins traverse
+        this layer, which connects the scalp veins to the diploic veins and intracranial
+        venous sinuses.\r\n"
+  - partName: 'Collumna Vertebrae '
+    partDescription: 
+    thumbnail: {fileID: 21300000, guid: ac5d0cc37c03c86439c82db20cce1046, type: 3}
+    ARPrefab: {fileID: 3210511686992291060, guid: 1d9fe983f00705c43a4fa769b9cca9ad, type: 3}
+    ARImageName: Sumsum_Tulang_Belakang
+    subPart:
+    - subName: 'Curvatura Lumbalis '
+      subImage: {fileID: 0}
+      subDescription: "Curvatura lumbalis merupakan lengkungan di daerah pinggang.
+        Lengkungan ini berbentuk cembung ke depan ( Lordosis). Lengkungan ini dibentuk
+        oleh 5 buah vertebrae lumbales\r"
+    - subName: 'Curvatura Sacralis '
+      subImage: {fileID: 0}
+      subDescription: 'Curvatura  sacralis merupakan lengkungan di daerah  bokong.
+        Lengkungan ini berbentuk cekung ke belakang (Kyphosis). Lengkungan ini dibentuk
+        oleh os. Sacrum dan os. coccygeus
+
+
+
+'
+    - subName: 'Curvatura Cervicalis '
+      subImage: {fileID: 0}
+      subDescription: 'Curvatura cervicalis merupakan lengkungan di daerah leher,.
+        Lengkungan ini berbentuk cembung ke depan ( Lordosis). Lengkungan ini dibentuk
+        oleh 7 buah vertebrae cervicales
+
+
+
+
+
+'
+    - subName: 'Curvatura Thoracalis '
+      subImage: {fileID: 0}
+      subDescription: 'Curvatura thoracalis merupakan lengkungan di daerah ldada.
+        Lengkungan ini berbentuk cekung ke belakang  ( Kyphosis). Lengkungan ini
+        dibentuk oleh 12 buah vertebrae thoracales
+
+
+
+'
+  - partName: 'Sistem Ventrikel '
+    partDescription: "Sistem Ventrikel terdiri atas  rongga-rongga yang saling terhubung
+      dan  terdapat di parenkim encephalon,  Sistem  Ventrikel terdiri atas 2 buah 
+      ventrikel lateral,  1 buah ventrikel tertius, dan 1 buah ventrikel quadratus.
+      Rongga ini berisi cairan otak (liquor cerebrospinalis/ LCS)  yang dihasilkan 
+      secara konstan oleh plexus choroid yang mengisi ventrikel dan spatium subarachnoid\r.
+      Embryologi:  ventrikel  berasal dari lumen tabung neural . \r\n"
+    thumbnail: {fileID: 21300000, guid: ac5d0cc37c03c86439c82db20cce1046, type: 3}
+    ARPrefab: {fileID: 7353165216191524925, guid: f4560063dfb480d4f80bde03eb0a6e7f, type: 3}
+    ARImageName: Pembuluh_Darah_Otak
+    subPart:
+    - subName: ventrikel tertius
+      subImage: {fileID: 0}
+      subDescription: 
+    - subName: ventrikel lateral
+      subImage: {fileID: 0}
+      subDescription: 
